@@ -4,3 +4,4 @@ This this the new version of the Horiseon website made the website with accessib
 
 here's the URL Website: https://yussefrafat.github.io/Horiseon-Project/ 
 URL repository: https://github.com/yussefrafat/Horiseon-Project
+permalink: /index.html
